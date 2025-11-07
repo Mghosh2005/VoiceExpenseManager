@@ -50,3 +50,7 @@ Recent transactions
 Bar chart by category
 Pie chart of distribution
 Monthly spending trends
+
+All data is stored locally in:
+
+voice_expense.db
