@@ -1,1 +1,13 @@
+flask
+flask-cors
+sqlalchemy
+python-dotenv
+speechrecognition
+gtts
+playsound
+dateparser
+streamlit
+pandas
+plotly
+psutil
 
